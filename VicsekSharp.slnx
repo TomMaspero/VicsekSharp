@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Vicsek.App/Vicsek.App.csproj" />
+    <Project Path="src/Vicsek.Core/Vicsek.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Vicsek.Tests/Vicsek.Tests.csproj" />
+  </Folder>
+</Solution>
